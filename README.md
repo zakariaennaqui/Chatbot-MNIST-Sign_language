@@ -9,7 +9,7 @@
 <img src="https://miro.medium.com/v2/resize:fit:750/format:webp/0*zKRz1UgqpOZ4bvuA" height="100" width="100"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" height="100" width="100"/>
 <img src="https://images.seeklogo.com/logo-png/37/1/pytorch-logo-png_seeklogo-372199.png" height="100" width="100"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Python-logo.png" height="100" width="100"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Python-logo.png" height="50" width="50"/>
 
 </div>
 
