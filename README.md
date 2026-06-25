@@ -11,6 +11,7 @@
 <div align="center">
 
 <img src="https://media.licdn.com/dms/image/v2/D4D12AQF_v3w1ToJE6Q/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1708205231050?e=1784160000&v=beta&t=lY7UCHLZeBUpjTAUfsiw2N_Hf8wMq1QScYjMhemZcoE" height="100" width="100"/>
+<img src="https://cdn.freepixel.com/preview/free-svg-the-keras-logo-a-prominent-symbol-in-the-field-of-preview-464-keras-wordmark-c-os-120439.jpg" height="100" width="100"/>
 <img src="https://miro.medium.com/v2/resize:fit:750/format:webp/0*zKRz1UgqpOZ4bvuA" height="100" width="100"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" height="100" width="100"/>
 <img src="https://images.seeklogo.com/logo-png/37/1/pytorch-logo-png_seeklogo-372199.png" height="100" width="100"/>
