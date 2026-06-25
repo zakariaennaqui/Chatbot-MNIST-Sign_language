@@ -10,11 +10,11 @@
 
 <div align="center">
 
-<img src="images/ssis-logo.png.webp" width="100" height="100"/>
-<img src="images/ssms.jpg" width="100" height="100"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" height="50"/><br>
-<img src="https://www.python.org/community/logos" alt="py"/>
+<img src="https://media.licdn.com/dms/image/v2/D4D12AQF_v3w1ToJE6Q/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1708205231050?e=1784160000&v=beta&t=lY7UCHLZeBUpjTAUfsiw2N_Hf8wMq1QScYjMhemZcoE" />
+<img src="https://miro.medium.com/v2/resize:fit:750/format:webp/0*zKRz1UgqpOZ4bvuA" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" />
+<img src="https://images.seeklogo.com/logo-png/37/1/pytorch-logo-png_seeklogo-372199.png" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Python-logo.png" />
 
 </div>
 
