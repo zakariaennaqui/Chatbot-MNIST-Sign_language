@@ -12,10 +12,9 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Python-logo.png" height="100" width="100"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="100" width="100"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" height="100" width="100"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="100" width="100"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="100" width="100"/>
 <img src="https://upload.wikimedia.org/wikipedia/en/6/6b/MySQL_logo.svg" height="100" width="100"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="100" width="100"/>
+<img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" height="100" width="100"/>
 
 </div>
 
