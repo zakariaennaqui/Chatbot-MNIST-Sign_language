@@ -1,0 +1,37 @@
+{
+  "intents": [
+    {
+      "tag": "transport",
+      "patterns": [
+        "horaires de bus",
+        "transport public",
+        "bus pour le centre ville"
+      ],
+      "responses": [
+        "Les bus circulent de 6h à 22h tous les jours."
+      ]
+    },
+    {
+      "tag": "mairie",
+      "patterns": [
+        "horaires de la mairie",
+        "documents administratifs",
+        "acte de naissance"
+      ],
+      "responses": [
+        "La mairie est ouverte du lundi au vendredi de 8h à 16h."
+      ]
+    },
+    {
+      "tag": "evenements",
+      "patterns": [
+        "événements",
+        "festival",
+        "activités culturelles"
+      ],
+      "responses": [
+        "Un festival culturel est organisé ce week-end au centre-ville."
+      ]
+    }
+  ]
+}

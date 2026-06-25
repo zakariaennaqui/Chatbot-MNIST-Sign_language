@@ -1,0 +1,58 @@
+{
+  "intents": [
+    {
+      "tag": "salutation",
+      "patterns": ["bonjour", "salut", "hello", "bonsoir"],
+      "responses": ["Bonjour ! Comment puis-je vous aider ?"]
+    },
+    {
+      "tag": "horaires_mairie",
+      "patterns": [
+        "Quels sont les horaires de la mairie",
+        "À quelle heure ouvre la mairie",
+        "Horaires mairie"
+      ],
+      "responses": [
+        "La mairie est ouverte du lundi au vendredi de 8h30 à 16h30."
+      ]
+    },
+    {
+      "tag": "carte_identite",
+      "patterns": [
+        "Comment refaire ma carte d'identité",
+        "Renouvellement carte identité",
+        "Documents carte nationale"
+      ],
+      "responses": [
+        "Pour renouveler votre carte d'identité, prenez rendez-vous à la mairie avec les documents requis."
+      ]
+    },
+    {
+      "tag": "transport",
+      "patterns": [
+        "Quel bus pour la gare",
+        "Transport public local",
+        "Bus centre ville"
+      ],
+      "responses": [
+        "Les lignes de bus 2 et 5 desservent la gare principale."
+      ]
+    },
+    {
+      "tag": "evenements",
+      "patterns": [
+        "Quels événements ce week-end",
+        "Manifestations locales",
+        "Activités dans la ville"
+      ],
+      "responses": [
+        "Ce week-end : marché artisanal samedi et concert dimanche soir."
+      ]
+    },
+    {
+      "tag": "au_revoir",
+      "patterns": ["merci", "au revoir", "bye"],
+      "responses": ["Au revoir ! Bonne journée."]
+    }
+  ]
+}
