@@ -2,12 +2,6 @@
 
 > A full Python AI project combining an **NLP Chatbot** (PyTorch MLP + MySQL + Tkinter GUI), **MNIST handwritten digit recognition** (TensorFlow/Keras CNN) and **Sign Language digit classification** (TensorFlow/Keras CNN) — built entirely from scratch.
 
-[![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)](https://www.python.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-MLP%20Chatbot-orange?logo=pytorch)](https://pytorch.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-CNN-orange?logo=tensorflow)](https://www.tensorflow.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-Dynamic%20DB-blue?logo=mysql)](https://www.mysql.com/)
-[![NLTK](https://img.shields.io/badge/NLTK-NLP-green)](https://www.nltk.org/)
-
 <div align="center">
 
 <img src="https://media.licdn.com/dms/image/v2/D4D12AQF_v3w1ToJE6Q/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1708205231050?e=1784160000&v=beta&t=lY7UCHLZeBUpjTAUfsiw2N_Hf8wMq1QScYjMhemZcoE" height="100" width="100"/>
@@ -16,14 +10,12 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" height="100" width="100"/>
 <img src="https://images.seeklogo.com/logo-png/37/1/pytorch-logo-png_seeklogo-372199.png" height="100" width="100"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Python-logo.png" height="100" width="100"/>
-
-<br/><br/>
-
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.9%2B-blue?logo=python" /></a>
-<a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-MLP%20Chatbot-orange?logo=pytorch" /></a>
-<a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-CNN-orange?logo=tensorflow" /></a>
-<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-Dynamic%20DB-blue?logo=mysql" /></a>
-<a href="https://www.nltk.org/"><img src="https://img.shields.io/badge/NLTK-NLP-green" /></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="100" width="100"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" height="100" width="100"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="100" width="100"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="100" width="100"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/6/6b/MySQL_logo.svg" height="100" width="100"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="100" width="100"/>
 
 </div>
 
