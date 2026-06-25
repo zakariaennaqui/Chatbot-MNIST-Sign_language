@@ -17,6 +17,14 @@
 <img src="https://images.seeklogo.com/logo-png/37/1/pytorch-logo-png_seeklogo-372199.png" height="100" width="100"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Python-logo.png" height="100" width="100"/>
 
+<br/><br/>
+
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.9%2B-blue?logo=python" /></a>
+<a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-MLP%20Chatbot-orange?logo=pytorch" /></a>
+<a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-CNN-orange?logo=tensorflow" /></a>
+<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-Dynamic%20DB-blue?logo=mysql" /></a>
+<a href="https://www.nltk.org/"><img src="https://img.shields.io/badge/NLTK-NLP-green" /></a>
+
 </div>
 
 ---
