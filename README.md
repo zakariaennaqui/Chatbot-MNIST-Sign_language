@@ -298,19 +298,19 @@ Early chatbot used `sklearn.feature_extraction.text.CountVectorizer` for BoW and
 
 ## Tech Stack
 
-| Technology | Version | Use |
-|------------|---------|-----|
-| **Python** | 3.9+ | Core language |
-| **PyTorch** | Latest | Chatbot MLP (training + inference + model saving) |
-| **TensorFlow / Keras** | 2.x | MNIST + Sign Language CNN models |
-| **NLTK** | 3.x | Tokenization (punkt), Lemmatization (wordnet) |
-| **scikit-learn** | — | Early version: CountVectorizer, LabelEncoder |
-| **MySQL (mysql-connector-python)** | — | Chatbot DB: auth, history, dynamic data |
-| **Tkinter** | stdlib | Chatbot desktop GUI |
-| **OpenCV (cv2)** | — | Custom digit image preprocessing |
-| **NumPy** | — | Array manipulation, BoW vectors |
-| **Matplotlib** | — | Visualization grids |
-| **unicodedata** | stdlib | Text normalization (accent removal) |
+| Technology  | Use |
+|-------------|------|
+| **Python** | Core language |
+| **PyTorch** | Chatbot MLP (training + inference + model saving) |
+| **TensorFlow / Keras** | MNIST + Sign Language CNN models |
+| **NLTK** | Tokenization (punkt), Lemmatization (wordnet) |
+| **scikit-learn** | Early version: CountVectorizer, LabelEncoder |
+| **MySQL (mysql-connector-python)** | Chatbot DB: auth, history, dynamic data |
+| **Tkinter** | Chatbot desktop GUI |
+| **OpenCV (cv2)** | Custom digit image preprocessing |
+| **NumPy** | Array manipulation, BoW vectors |
+| **Matplotlib** | Visualization grids |
+| **unicodedata** | Text normalization (accent removal) |
 
 ---
 
