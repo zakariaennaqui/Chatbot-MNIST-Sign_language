@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="./assets/NltkNlp.png" height="75" width="75"/>
+<img src="./assets/NltkNlp.png" /><br>
 <img src="https://cdn.freepixel.com/preview/free-svg-the-keras-logo-a-prominent-symbol-in-the-field-of-preview-464-keras-wordmark-c-os-120439.jpg" height="100" width="100"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" height="100" width="100"/>
 <img src="https://images.seeklogo.com/logo-png/37/1/pytorch-logo-png_seeklogo-372199.png" height="100" width="100"/>
